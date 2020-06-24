@@ -1,1 +1,2 @@
-#create ALU-code in vhdl langauge
+# ALU-code 
+create ALU by using vhdl langauge
