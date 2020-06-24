@@ -1,2 +1,2 @@
 # ALU-code 
-create ALU by using vhdl langauge
+create ALU module by using vhdl langauge
